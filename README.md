@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Welcome to my profile!!</h1>
-<h3 align="center">A passionate ML enthusiast. Currently studying and working in Germany</h3>
+<h3 align="center">I am an ML enthusiast who wishes to contribute to social good through acquired skills and knowledge. Also, I like to talk about Psychology and the sustainability of the environment </h3>
 
 - 🔭 I’m currently working on **NLP**
 
