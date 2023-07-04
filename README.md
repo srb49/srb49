@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Welcome to my profile!!</h1>
-<h3 align="center">I am an ML enthusiast who wishes to contribute to social good through acquired skills and knowledge. Also, I like to talk about Psychology and the sustainability of the environment. :)</h3>
+<h3 align="center">I am a Machine Learning enthusiast who wishes to contribute to social good through acquired skills and knowledge. Also, I like to talk about Psychology and the sustainability of the environment. :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srb49&label=Profile%20views&color=0e75b6&style=flat" alt="srb49" /> </p>
 
