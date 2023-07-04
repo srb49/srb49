@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **NLP, ML, data Science**
+- 🌱 I’m currently learning **NLP, ML, Data Science**
 
 - 👯 I’m looking to collaborate on **ML related projects**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/somrita-banerjee-15366619a/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
