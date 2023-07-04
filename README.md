@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋 Welcome to my profile!!</h1>
-<h3 align="center">I am an ML enthusiast who wishes to contribute to social good through acquired skills and knowledge. Also, I like to talk about Psychology and the sustainability of the environment </h3>
+<h3 align="center">I am an ML enthusiast who wishes to contribute to social good through acquired skills and knowledge. Also, I like to talk about Psychology and the sustainability of the environment. :)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srb49&label=Profile%20views&color=0e75b6&style=flat" alt="srb49" /> </p>
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **NLP, ML, Data Science**
+- 🌱 I’m currently learning **NLP, ML, data Science**
 
 - 👯 I’m looking to collaborate on **ML related projects**
 
@@ -13,6 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/somrita-banerjee-15366619a/**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
